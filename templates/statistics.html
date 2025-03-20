@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+    <title>Статистика</title>
+</head>
+<body>
+    <div class="container">
+        <h1>Статистика</h1>
+        <div id="statistics-results">
+            <p>Выполненные задачи:</p>
+            <ul>
+                {% for task_id, completed in progress.items() %}
+                    <li>Задача {{ task_id }}: {% if completed %}Выполнено{% else %}Не выполнено{% endif %}</li>
+                {% endfor %}
+            </ul>
+            
+            {% if not progress %}
+                <p>У вас пока нет выполненных задач. Начните с <a href="{{ url_for('practice') }}">практики</a>!</p>
+            {% else %}
+                <p>Всего выполнено задач: {{ progress.values()|sum() }} из {{ progress|length }}</p>
+            {% endif %}
+        </div>
+        <a href="/" class="back-button">На главную</a>
+    </div>
+</body>
+</html>

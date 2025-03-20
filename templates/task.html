@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="{{ url_for('static', filename='main.js') }}" defer></script>
+    <title>Задача {{ task_id }}</title>
+</head>
+<body>
+    <div class="container">
+        <h1>Задача {{ task_id }}</h1>
+        <div id="taskData" data-answers='{{ answers | tojson | safe }}' style="display: none;"></div>
+        <form class="question-form">
+            {% for question in questions %}
+            <div class="question-block">
+                <p class="question">{{ question }}</p>
+                <input type="text" class="answer" placeholder="Enter answer in ENGLISH and CAPS LOCK (e.g. USEFUL, HARMFUL)" required>
+                <div id="answer-hint-{{ loop.index0 }}" class="answer-hint"></div>  <!-- Added hint div for each question -->
+                <button type="button" class="submit-button">Отправить</button>
+                {% if user_role == 'teacher' %}
+                    <button type="button" class="show-answer">Показать ответ</button>
+                    <div class="correct-answer" style="display: none;">Правильный ответ: {{ answers[loop.index0] }}</div>
+                {% endif %}
+                <div class="feedback" style="display: none;"></div>
+            </div>
+            {% endfor %}
+            <button type="button" id="checkAnswers">Проверить все ответы</button>
+        </form>
+        <div id="result"></div>
+        <a href="/" class="back-button">На главную</a>
+    </div>
+</body>
+</html>

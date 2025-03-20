@@ -1,0 +1,8 @@
+<div id="statistics-results">
+    <p>Выполненные задачи:</p>
+    <ul>
+        {% for task_id, completed in progress.items() %}
+            <li>Задача {{ task_id }}: {% if completed %}Выполнено{% else %}Не выполнено{% endif %}</li>
+        {% endfor %}
+    </ul>
+</div>
