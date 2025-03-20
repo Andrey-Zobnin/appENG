@@ -1,0 +1,10 @@
+#!/bin/bash
+
+# Установка зависимостей
+pip install -r requirements.txt
+
+# Инициализация базы данных (если необходимо)
+python3 run.py
+
+# Запуск приложения
+python3 run.py
