@@ -4,4 +4,6 @@ attached_assets/Pasted---1742445113202.txt
 uv.lock
 README.md
 pyproject.toml
+requirements.txt
 database.db
+.gitignore
