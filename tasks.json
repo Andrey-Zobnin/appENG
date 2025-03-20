@@ -1,0 +1,282 @@
+{
+    "1": {
+        "questions": [
+            "Thousands of tourists visit Edinburgh every year. The capital of Scotland is 29______ (FAME) for its history and architecture.",
+            "There are pills for everything. If you can't sleep you take a pill. If you're depressed or just 29_____ (HAPPY), you can also take a pill."
+        ],
+        "answers": ["FAMOUS", "UNHAPPY"]
+    },
+    "2": {
+        "questions": [
+            "People spend hours talking on their mobile phones. There is an opinion that it may be 29_______ (HARM) to their health.",
+            "Learning languages is becoming a popular hobby with children and adults. It's not only interesting but very 29________ (USE), too."
+        ],
+        "answers": ["HARMFUL", "USEFUL"]
+    },
+    "3": {
+        "questions": [
+            "British cuisine is simple. Puddings, stews, pies and breads are 29______ (TRADITION) British dishes.",
+            "How do people learn the news? About a century ago people got 29________ (INFORM) from newspapers."
+        ],
+        "answers": ["TRADITIONAL", "INFORMATION"]
+    },
+    "4": {
+        "questions": [
+            "Ratatouille is an American cartoon. The name of the cartoon comes from a 29___________ (TRADITION) French dish made of vegetables.",
+            "Dublin is the capital city of the Republic of Ireland. It has an 29.__________________ (NATIONAL) airport with flights from London."
+        ],
+        "answers": ["TRADITIONAL", "INTERNATIONAL"]
+    },
+    "5": {
+        "questions": [
+            "What do you think is the most stressful and 29. __________________ (DANGER) job in Britain?",
+            "My first job was working at a bakery. When I walked from my house to the bakery I could smell the 29. __________________ (WONDER) aroma of the fresh bread."
+        ],
+        "answers": ["DANGEROUS", "WONDERFUL"]
+    },
+    "6": {
+        "questions": [
+            "In Andorra people live longer than in any other European country. It seems they have discovered the secret of a long and 29. __________________ (HEALTH) life.",
+            "Ballroom dancing in the UK is making a comeback. For the past five years its popularity has grown thanks to the TV show 'Strictly Come Dancing'."
+        ],
+        "answers": ["HEALTHY", "DANCER"]
+    },
+    "7": {
+        "questions": [
+            "The best thing about shopping in London is that there really are hundreds of cool shops selling 29. ________________ (FASHION) clothes.",
+            "London is famous for its history and its sights. It is also a wonderful place for shopaholics."
+        ],
+        "answers": ["FASHIONABLE", "FAMOUS"]
+    },
+    "8": {
+        "questions": [
+            "Every year the world goes dark for one hour, the Earth Hour. The event is organised by the 29. ____________ (NATION) World Wildlife Fund.",
+            "The Turners were not used to snow. The most they ever got in Birmingham was an inch or so each winter."
+        ],
+        "answers": ["INTERNATIONAL", "UNUSUAL"]
+    },
+    "9": {
+        "questions": [
+            "Dr Michael Werner says that he has eaten nothing for four years. The German 29. ___________ (SCIENCE) explains that he gets all his energy from sunlight.",
+            "Many tourists don't like staying in city hotels. They prefer to avoid 29. _____________ (NOISE) cities completely."
+        ],
+        "answers": ["SCIENTIST", "NOISY"]
+    },
+    "10": {
+        "questions": [
+            "Piranhas are South American fish. There are lots of scary stories about them. Most people think that piranhas are very 29. __________________ (DANGER) creatures.",
+            "Have you heard of a Tadeus Bodnar? He is a 29. ______________ (FAME) Hungarian hairdresser."
+        ],
+        "answers": ["DANGEROUS", "FAMOUS"]
+    },
+    "11": {
+        "questions": [
+            "The internet has changed the way we communicate. It has made it much more 29__________ (EASY) to stay in touch.",
+            "Many people believe that social media can be quite 29__________ (ADDICT) if not used wisely."
+        ],
+        "answers": ["EASY", "ADDICTIVE"]
+    },
+    "12": {
+        "questions": [
+            "The Amazon rainforest is home to many 29__________ (DANGER) species.",
+            "Conservation efforts are crucial for protecting 29__________ (ENDANGER) animals."
+        ],
+        "answers": ["DANGEROUS", "ENDANGERED"]
+    },
+    "13": {
+        "questions": [
+            "The new smartphone model is very 29__________ (INNOVATE) and has many advanced features.",
+            "Technology is becoming increasingly 29__________ (IMPORT) in our daily lives."
+        ],
+        "answers": ["INNOVATIVE", "IMPORTANT"]
+    },
+    "14": {
+        "questions": [
+            "The documentary provided a lot of 29__________ (VALUE) information about climate change.",
+            "It's important to have a 29__________ (BALANCE) diet for good health."
+        ],
+        "answers": ["VALUABLE", "BALANCED"]
+    },
+    "15": {
+        "questions": [
+            "The teacher gave us a very 29__________ (CHALLENGE) assignment that required a lot of research.",
+            "Studying abroad can be a very 29__________ (ENRICH) experience."
+        ],
+        "answers": ["CHALLENGING", "ENRICHING"]
+    },
+    "16": {
+        "questions": [
+            "The festival was a 29__________ (SPECTACLE) event with colorful parades and performances.",
+            "The view from the top of the mountain was absolutely 29__________ (BREATHE)!"
+        ],
+        "answers": ["SPECTACULAR", "BREATHTAKING"]
+    },
+    "17": {
+        "questions": [
+            "The new policy aims to create a more 29__________ (EQUAL) society.",
+            "It's essential to promote 29__________ (DIVERSITY) in the workplace."
+        ],
+        "answers": ["EQUAL", "DIVERSITY"]
+    },
+    "18": {
+        "questions": [
+            "The artist's work is known for its 29__________ (UNIQUE) style.",
+            "Many people find art to be a very 29__________ (INSPIRATION) form of expression."
+        ],
+        "answers": ["UNIQUE", "INSPIRATIONAL"]
+    },
+    "19": {
+        "questions": [
+            "The scientist made a 29__________ (SIGNIFICANT) discovery that could change medicine.",
+            "It's important to have a 29__________ (CLEAR) understanding of the topic before discussing it."
+        ],
+        "answers": ["SIGNIFICANT", "CLEAR"]
+    },
+    "20": {
+        "questions": [
+            "The new restaurant has a very 29__________ (INVITE) atmosphere.",
+            "The book was so 29__________ (CAPTIVATE) that I couldn't put it down."
+        ],
+        "answers": ["INVITING", "CAPTIVATING"]
+    },
+    "21": {
+        "questions": [
+            "The athlete's performance was truly 29__________ (IMPRESS).",
+            "The movie received 29__________ (POSITIVE) reviews from critics."
+        ],
+        "answers": ["IMPRESSIVE", "POSITIVE"]
+    },
+    "22": {
+        "questions": [
+            "The lecture was very 29__________ (EDUCATE) and provided new insights.",
+            "It's important to have 29__________ (ACCURATE) information when making decisions."
+        ],
+        "answers": ["EDUCATIONAL", "ACCURATE"]
+    },
+    "23": {
+        "questions": [
+            "The new law aims to protect the 29__________ (VULNERABLE) members of society.",
+            "It's essential to have a 29__________ (SUSTAIN) approach to development."
+        ],
+        "answers": ["VULNERABLE", "SUSTAINABLE"]
+    },
+    "24": {
+        "questions": [
+            "The team worked very 29__________ (HARD) to meet the deadline.",
+            "The results of the experiment were 29__________ (SURPRISE)."
+        ],
+        "answers": ["HARD", "SURPRISING"]
+    },
+    "25": {
+        "questions": [
+            "The new software is very 29__________ (USER) friendly.",
+            "The conference was a great opportunity for 29__________ (NETWORK)."
+        ],
+        "answers": ["USER", "NETWORKING"]
+    },
+    "26": {
+        "questions": [
+            "The landscape was 29__________ (STUNNING) and took my breath away.",
+            "The project was completed ahead of 29__________ (SCHEDULE)."
+        ],
+        "answers": ["STUNNING", "SCHEDULE"]
+    },
+    "27": {
+        "questions": [
+            "The charity event raised a 29__________ (SIGNIFICANT) amount of money.",
+            "It's important to have a 29__________ (POSITIVE) attitude in life."
+        ],
+        "answers": ["SIGNIFICANT", "POSITIVE"]
+    },
+    "28": {
+        "questions": [
+            "The new policy is designed to be more 29__________ (EFFECTIVE).",
+            "The team showed great 29__________ (DETERMINATION) in achieving their goals."
+        ],
+        "answers": ["EFFECTIVE", "DETERMINATION"]
+    },
+    "29": {
+        "questions": [
+            "The presentation was very 29__________ (INFORMATIVE) and engaging.",
+            "The community is working towards a more 29__________ (SUSTAIN) future."
+        ],
+        "answers": ["INFORMATIVE", "SUSTAINABLE"]
+    },
+    "30": {
+        "questions": [
+            "The new product is designed to be more 29__________ (EFFICIENT).",
+            "The festival was a 29__________ (CELEBRATE) of culture and art."
+        ],
+        "answers": ["EFFICIENT", "CELEBRATION"]
+    },
+    "31": {
+        "questions": [
+            "The documentary highlighted the 29__________ (IMPORT) of wildlife conservation.",
+            "The new policy aims to create a more 29__________ (INCLUSIVE) environment."
+        ],
+        "answers": ["IMPORTANCE", "INCLUSIVE"]
+    },
+    "32": {
+        "questions": [
+            "The athlete's dedication to training is truly 29__________ (ADMIRE).",
+            "The new technology promises to be 29__________ (REVOLUTION) in the industry."
+        ],
+        "answers": ["ADMIRABLE", "REVOLUTIONARY"]
+    },
+    "33": {
+        "questions": [
+            "The chef's dishes are known for their 29__________ (DELICIOUS) flavors.",
+            "The festival was a 29__________ (MAGNIFICENT) display of talent."
+        ],
+        "answers": ["DELICIOUS", "MAGNIFICENT"]
+    },
+    "34": {
+        "questions": [
+            "The research provided 29__________ (CRUCIAL) insights into the disease.",
+            "The team worked in a very 29__________ (COLLABORATE) manner."
+        ],
+        "answers": ["CRUCIAL", "COLLABORATIVE"]
+    },
+    "35": {
+        "questions": [
+            "The new book offers a 29__________ (FRESH) perspective on the topic.",
+            "The event was a great opportunity for 29__________ (LEARN)."
+        ],
+        "answers": ["FRESH", "LEARNING"]
+    },
+    "36": {
+        "questions": [
+            "The artist's latest work is a 29__________ (MASTERPIECE) of modern art.",
+            "The community is known for its 29__________ (FRIENDLY) atmosphere."
+        ],
+        "answers": ["MASTERPIECE", "FRIENDLY"]
+    },
+    "37": {
+        "questions": [
+            "The new initiative aims to promote 29__________ (HEALTH) lifestyles.",
+            "The documentary was both 29__________ (EDUCATE) and entertaining."
+        ],
+        "answers": ["HEALTHY", "EDUCATIONAL"]
+    },
+    "38": {
+        "questions": [
+            "The new policy is designed to be more 29__________ (TRANSPARENT).",
+            "The team showed great 29__________ (COMMIT) to their project."
+        ],
+        "answers": ["TRANSPARENT", "COMMITMENT"]
+    },
+    "39": {
+        "questions": [
+            "The new app is very 29__________ (CONVENIENT) for users.",
+            "The conference was a 29__________ (GREAT) success."
+        ],
+        "answers": ["CONVENIENT", "GREAT"]
+    },
+    "40": {
+        "questions": [
+            "The new research provides 29__________ (VALUABLE) insights into the topic.",
+            "The team is known for their 29__________ (CREATIVE) solutions."
+        ],
+        "answers": ["VALUABLE", "CREATIVE"]
+    }
+}
