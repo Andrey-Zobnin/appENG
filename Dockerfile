@@ -1,7 +1,7 @@
-FROM node:16  # Use the appropriate Node.js version
+FROM node:16
 WORKDIR /usr/src/app
 COPY package*.json ./
 RUN npm install
 COPY . .
 EXPOSE 5000
-CMD ["node", "main.js"]
+CMD ["node", "index.js"]
