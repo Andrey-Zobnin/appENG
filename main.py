@@ -8,6 +8,13 @@ from run import app
 # No need to call app.run() here
 
 if __name__ == "__main__":
+    # The following line will be executed when the file is imported by another script
     # This block will only be executed when the file is run directly
     # It won't be executed when imported by Gunicorn
     app.run(host='0.0.0.0', port=5000, debug=True)
+    # Debug mode will enable more detailed error messages
+    # It's recommended to disable debug mode in production
+    # app.run(host='0.0.0.0', port=5000)
+    # Debug mode is set to False by default
+    # You can set it to True for development purposes
+    # app.run(host='0.0.0.0', port=5000, debug=True)
